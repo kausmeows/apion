@@ -1,0 +1,27 @@
+{
+  "name": "apion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh-s1/apion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh-s1/apion/issues"
+  },
+  "homepage": "https://github.com/kaustubh-s1/apion#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
