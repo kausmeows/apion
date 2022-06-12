@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kaustubh-s1/apion#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.2.0-beta1"
   },
   "devDependencies": {
     "snowpack": "^3.8.8"
