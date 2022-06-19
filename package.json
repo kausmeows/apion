@@ -1,28 +1,24 @@
 {
-  "name": "apion",
+  "name": "postman-clone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kaustubh-s1/apion.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kaustubh-s1/apion/issues"
-  },
-  "homepage": "https://github.com/kaustubh-s1/apion#readme",
   "dependencies": {
-    "axios": "^0.27.2",
-    "bootstrap": "^5.2.0-beta1",
-    "pretty-bytes": "^6.0.0"
+    "@codemirror/basic-setup": "^0.18.2",
+    "@codemirror/commands": "^0.18.2",
+    "@codemirror/lang-json": "^0.18.0",
+    "@codemirror/view": "^0.18.16",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "pretty-bytes": "^5.6.0"
   },
   "devDependencies": {
-    "snowpack": "^3.8.8"
+    "snowpack": "^3.5.6"
   }
 }
